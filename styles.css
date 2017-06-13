@@ -1,0 +1,151 @@
+            body {
+                font-family: times, sans-serif;
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            header {
+                height: 250px;
+                background-image: url(img/knitpickspalette.jpg);
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin: 0px;
+            }
+            
+            h1,
+            nav,
+            article,
+            footer {
+                padding: 20px
+            }
+            
+            nav {
+                background: url(../img/grey_wash_wall.png);
+            }
+            
+            a {
+                color: #6e2727;
+                font-size: 14px;
+                line-height: 19px;
+                display: block;
+            }
+            
+            main {
+                margin: 50px;
+            }
+            
+            article {
+                background: #D1D1D1;
+                color: #333;
+                margin: 0px;
+                padding: 50px;
+            }
+            
+            h1 {
+                font-family: monospace;
+                color: #fdfdfd;
+                font-size: 55px;
+                margin: 135px 0 0 50px;
+                position: absolute;
+            }
+            
+            h2 {
+                font-family: monospace;
+                font-size: 28px;
+                color: darkcyan;
+                line-height: 5px;
+                margin: 0px;
+            }
+            
+            h3 {
+                font-family: sans-serif;
+                font-weight: 500;
+                font-size: 19px;
+                color: darkcyan;
+            }
+            
+            p {
+                font-size: 16px;
+                line-height: 20px;
+                color: #333;
+                margin-bottom: 20px;
+            }
+            
+            .paragraph1 {
+                font-size: 18px;
+                line-height: 26px;
+                font-style: italic;
+            }
+            
+            section {
+                margin: 50px 0 0 0;
+            }
+            
+            div {
+                position: relative;
+                display: inline-block;
+                height: 225px;
+                width: 325px;
+                margin-left: 5px;
+                margin-top: 5px;
+                text-align: center;
+                background-position: center center;
+                background-size: cover;
+            }
+            
+            .socks {
+                background-image: url(img/socks.JPG);
+            }
+            
+            .bunny {
+                background-image: url(img/bunny.JPG);
+            }
+            
+            .yarn1 {
+                background-image: url(img/yarn1.JPG);
+            }
+            
+            .hat1 {
+                background-image: url(img/hat-backslash.JPG);
+            }
+            
+            .scarf {
+                background-image: url(img/scarf.JPG);
+            }
+            
+            .hat2 {
+                background-image: url(img/hat-colorblock.JPG);
+            }
+            
+            .sweater {
+                background-image: url(img/sweater.JPG);
+            }
+            
+            .luke-ella {
+                background-image: url(img/luke-ella.JPG);
+            }
+            
+            .elephant {
+                background-image: url(img/elephant.JPG);
+            }
+            
+            .yarn2 {
+                background-image: url(img/yarn2.JPG);
+            }
+            
+            footer {
+                margin: 50px;
+                background: url(../img/office.png);
+                font-size: 14px;
+                color: #999;
+            }
+            
+            .footer_title {
+                font-size: 20px;
+                color: #999;
+            }
+            
+            .footerinfo {
+                color: #999;
+            }
