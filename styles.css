@@ -6,7 +6,7 @@
             
             header {
                 height: 250px;
-                background-image: url(img/knitpickspalette.jpg);
+                background-image: url(img/rows.jpg);
                 background-position: center center;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -44,10 +44,14 @@
             
             h1 {
                 font-family: Roboto Slab, monospace;
+                font-weight: 700;
                 color: #fdfdfd;
+                background-color: darkcyan;
+                opacity: .6;
                 font-size: 55px;
-                margin: 135px 0 0 50px;
-                position: absolute;
+                margin: auto;
+                padding: 90px;
+                text-align: center;
             }
             
             h2 {
@@ -59,29 +63,40 @@
             }
             
             h3 {
-                font-family: sans-serif;
-                font-weight: 500;
-                font-size: 19px;
+                font-family: Roboto Condensed, sans-serif;
+                font-weight: 400;
+                font-size: 23px;
                 color: darkcyan;
             }
             
             p {
-                font-size: 16px;
-                line-height: 20px;
+                font-family: Roboto Slab, serif;
+                font-weight: 300;
+                font-size: 15px;
+                line-height: 23px;
                 color: #333;
                 margin-bottom: 20px;
             }
             
             #paragraph1 {
-                font-size: 18px;
+                font-size: 17px;
                 line-height: 26px;
                 font-style: italic;
             }
             
+            #photo-title {
+                padding-bottom: 25px;
+            }
+
             section {
-                margin: 50px 0 0 0;
+                margin: 50px 0 0 50px;
             }
             
+            hr {
+	            background-color: #fff;
+	            border-top: 2px dashed #8c8b8b;
+            }
+
             div {
                 position: relative;
                 display: inline-block;
