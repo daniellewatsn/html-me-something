@@ -12,7 +12,8 @@
                 background-size: cover;
                 margin: 0px;
             }
-            
+
+
             h1,
             nav,
             article,
@@ -36,14 +37,13 @@
             }
             
             article {
-                background: #D1D1D1;
                 color: #333;
                 margin: 0px;
                 padding: 50px;
             }
             
             h1 {
-                font-family: monospace;
+                font-family: Roboto Slab, monospace;
                 color: #fdfdfd;
                 font-size: 55px;
                 margin: 135px 0 0 50px;
@@ -51,7 +51,7 @@
             }
             
             h2 {
-                font-family: monospace;
+                font-family: Roboto Slab, monospace;
                 font-size: 28px;
                 color: darkcyan;
                 line-height: 5px;
@@ -72,7 +72,7 @@
                 margin-bottom: 20px;
             }
             
-            .paragraph1 {
+            #paragraph1 {
                 font-size: 18px;
                 line-height: 26px;
                 font-style: italic;
